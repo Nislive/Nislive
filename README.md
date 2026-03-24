@@ -27,7 +27,7 @@ Currently sharpening my skills in **Offensive Security** and **AI Agents**.
 ---
 
 ### `root@alperen:~$ ./show_activity.sh`
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nislive&theme=aura_dark" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nislive&theme=github-dark-green&bg_color=0d1117&line=39d353&point=39d353&color=c9d1d9&hide_border=true&cache=re-fetch" alt="GitHub Activity Graph" />
 
 ---
 
