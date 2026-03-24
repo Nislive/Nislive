@@ -1,24 +1,19 @@
-<h1 align="center">Hi, I'm Alperen </h1>
-
-<p align="center">
-  <strong>Turkey · Offensive Security · AI Agents</strong>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/enis-alperen-şamlı-978412335/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-</p>
+### `root@alperen:~$ neofetch`
+**Profile:** Alperen
+**Location:** Turkey
+**Focus:** Offensive Security · AI Agents
+**Network:** [LinkedIn](https://www.linkedin.com/in/enis-alperen-şamlı-978412335/)
 
 ---
 
-### `> whoami`
-
+### `root@alperen:~$ cat whoami.txt`
 I'm an aspiring pentester who believes the best way to secure systems is to learn how they're built — and how they break.
 
-Currently sharpening my skills in **offensive security**, **ai agents**.
+Currently sharpening my skills in **Offensive Security** and **AI Agents**.
 
 ---
 
-### `> ls projects/`
+### `root@alperen:~$ ls -la projects/`
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -30,11 +25,11 @@ Currently sharpening my skills in **offensive security**, **ai agents**.
 | [Car Price Detection](https://github.com/Nislive/car-price-detection) | Predicts car prices based on features using machine learning(linear regression) | Python, ML |
 
 ---
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nislive&theme=github-dark" alt="GitHub Activity Graph" />
-</p>
- 
+
+### `root@alperen:~$ ./show_activity.sh`
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nislive&theme=hacker" alt="GitHub Activity Graph" />
+
 ---
-<p align="center">
-  <em>"Understand the system. Find the flaw. Report it."</em>
-</p>
+
+### `root@alperen:~$ echo $MOTD`
+> *"Understand the system. Find the flaw. Report it."*
