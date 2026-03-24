@@ -18,8 +18,8 @@ Currently sharpening my skills in **Offensive Security** and **AI Agents**.
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [Neon Notes](https://github.com/Nislive/personal-note-django) | Full-stack note app with AI summarization — auth, CRUD, user scoping, CSRF protection | Django, JavaScript, Groq API |
-| [Log Analyzer Agent](https://github.com/nislive-egeturedi/log-analyzer-agent) | AI agent that analyzes log files to detect anomalies and security events | Python, AI |
-| [Vulnerability Search MCP](https://github.com/Nislive/Vuln-Search-MCP) | MCP server for searching and querying known vulnerabilities | Python, MCP |
+| [Log Analyzer Agent](https://github.com/nislive-egeturedi/log-analyzer-agent) | AI agent that analyzes log files to detect anomalies and security events | Python, LangGraph, ML, LangSmith |
+| [Vulnerability Search MCP](https://github.com/Nislive/Vuln-Search-MCP) | MCP server for searching and querying known vulnerabilities with API and RAG | Python, MCP, ChromaDB |
 | [License Plate Recognition](https://github.com/Nislive/license_plate_recognition) | Detects and reads license plates from videos using computer vision | Python, OpenCV, PaddleOCR, YOLO |
 | [Document Scanner](https://github.com/Nislive/document-scanner) | Scans and processes documents from images with edge detection | Python, OpenCV |
 | [Car Price Detection](https://github.com/Nislive/car-price-detection) | Predicts car prices based on features using machine learning(linear regression) | Python, ML |
