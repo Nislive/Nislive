@@ -1,7 +1,7 @@
 ### `root@alperen:~$ neofetch`
-**Profile:** Alperen
-**Location:** Turkey
-**Focus:** Offensive Security · AI Agents
+**Profile:** Alperen<br>
+**Location:** Turkey<br>
+**Focus:** Offensive Security · AI Agents<br>
 **Network:** [LinkedIn](https://www.linkedin.com/in/enis-alperen-şamlı-978412335/)
 
 ---
@@ -27,7 +27,7 @@ Currently sharpening my skills in **Offensive Security** and **AI Agents**.
 ---
 
 ### `root@alperen:~$ ./show_activity.sh`
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nislive&theme=hacker" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nislive&theme=aura_dark" alt="GitHub Activity Graph" />
 
 ---
 
