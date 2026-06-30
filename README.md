@@ -20,6 +20,7 @@ Currently sharpening my skills in **Offensive Security** and **AI Agents**.
 | [Log Analyzer Agent](https://github.com/nislive-egeturedi/log-analyzer-agent) | AI agent that analyzes log files to detect anomalies and security events | Python, LangGraph, ML, LangSmith |
 | [PyRIT MCP Server](https://github.com/Nislive/pyrit-mcp-server) | A modular MCP server providing 31 composable tools for automated AI red-teaming and scoring. | Python, MCP, PyRIT |
 | [Vulnerability Search MCP](https://github.com/Nislive/Vuln-Search-MCP) | MCP server for searching and querying known vulnerabilities with API and RAG | Python, MCP, ChromaDB |
+| [E-Commerce Microservices](https://github.com/Nislive/go-microservices-ecommerce) | Event-driven e-commerce backend with stateless JWT auth, async messaging, and polyglot persistence, deployed on Kubernetes | Go, Kubernetes, Docker, RabbitMQ, Keycloak, MongoDB, PostgreSQL, Redis |
 | [Neon Notes](https://github.com/Nislive/personal-note-django) | Full-stack note app with AI summarization — auth, CRUD, user scoping, CSRF protection | Django, JavaScript, Groq API |
 | [License Plate Recognition](https://github.com/Nislive/license_plate_recognition) | Detects and reads license plates from videos using computer vision | Python, OpenCV, PaddleOCR, YOLO |
 | [Document Scanner](https://github.com/Nislive/document-scanner) | Scans and processes documents from images with edge detection | Python, OpenCV |
